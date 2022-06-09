@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estera/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/estera/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
